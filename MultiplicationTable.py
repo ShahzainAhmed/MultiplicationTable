@@ -1,4 +1,4 @@
-# Program to find Multiplication table (from 1 to 10)
+# Program to find Multiplication table (from 1 to 10) of any number given by the user as input.
 
 num = 2
 
