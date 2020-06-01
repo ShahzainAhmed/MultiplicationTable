@@ -4,3 +4,4 @@
 - Input statement.
 - Variables.
 - For loop.
+- Ranges.
