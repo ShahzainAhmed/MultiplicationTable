@@ -5,3 +5,4 @@
 - Variables.
 - For loop.
 - Ranges.
+- Print statement.
