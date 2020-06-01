@@ -1,8 +1,7 @@
 # Program to find Multiplication table (from 1 to 10) of any number given by the user as input.
 
-num = 2
-
 # To take input from the user
+
 # num = int(input("Display multiplication table of? "))
 
 # Iterate 10 times from i = 1 to 10
