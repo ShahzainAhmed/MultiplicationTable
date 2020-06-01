@@ -1,4 +1,4 @@
-# Multiplication table (from 1 to 10) in Python
+# Multiplication table (from 1 to 10)
 
 num = 2
 
